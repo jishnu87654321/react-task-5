@@ -1,0 +1,21 @@
+.age-calculator {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .calculate-button {
+    background-color: rgb(36, 160, 237);
+    color: white;
+    border: none;
+    padding: 10px 25px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 9%;
+  }
+  input[type="date"] {
+    width: 350px; 
+    height: 30px; 
+    font-size: 16px; 
+  }
+  
